@@ -1,0 +1,22 @@
+body{
+  background-color: #f6def6;
+}
+h1{
+  font-size: 70px;
+  color: #562349;
+}
+img:hover{
+  background-color: #e2c85b;
+
+}
+.bacon{
+  background-color: #c14545;
+}
+.broccoli{
+  background-color: #52de97;
+}
+.aryan{
+  max-width:50%;
+  height:auto;
+
+}
